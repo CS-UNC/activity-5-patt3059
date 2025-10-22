@@ -21,8 +21,4 @@ def uses_only(word,letters):
          return False
    return True
 
-def all_uses_only(file, letters):
-   words = open(file, 'r')
-   for x in words:
-      uses_only(words, letters)
 
