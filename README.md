@@ -72,6 +72,3 @@ Write a function called `uses_only(word,letters)` that takes in two strings `wor
 Write a function called `all_uses_only(file, letters)` that takes in two strings `file` representing the file to read and `letters` and returns a list of words that only use characters from `letters`
 
 #### Hint: Your `uses_only` function will be important here
-
-
-
